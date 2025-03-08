@@ -37,7 +37,7 @@ export default function Education() {
                     </StyledSchools>
             
                     <StyledSchools>
-                        <h4>Archbishop Molloy High Schools | Queens, NY</h4>
+                        <h4>Archbishop Molloy High School | Queens, NY</h4>
                         <StyledYear>Class of 2021</StyledYear>
                     </StyledSchools>
                 </StyledEducationSection>
